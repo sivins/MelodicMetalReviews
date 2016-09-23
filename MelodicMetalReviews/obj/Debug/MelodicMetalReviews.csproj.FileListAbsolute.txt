@@ -1,0 +1,12 @@
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\bin\MelodicMetalReviews.dll.config
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\bin\MelodicMetalReviews.dll
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\bin\MelodicMetalReviews.pdb
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\bin\EntityFramework.dll
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\bin\EntityFramework.SqlServer.dll
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\bin\EntityFramework.xml
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\bin\EntityFramework.SqlServer.xml
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\obj\Debug\MelodicMetalReviews.csprojResolveAssemblyReference.cache
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\obj\Debug\MelodicMetalReviews.dll
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\obj\Debug\MelodicMetalReviews.pdb
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\obj\Debug\MelodicMetalReviews.Migrations.initial.resources
+C:\Users\seani_000\Documents\Visual Studio 2013\Projects\MelodicMetalReviews\MelodicMetalReviews\obj\Debug\MelodicMetalReviews.csproj.GenerateResource.Cache
